@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scipy
+tqdm
+torch==1.4.0
+tensorboardX
+PyQt5==5.14.0
